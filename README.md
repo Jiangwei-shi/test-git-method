@@ -13,3 +13,8 @@ git branch
 git add .\
 git commit -m "example"\
 git push --set-upstrean origin [branch name]
+
+## delete local branch
+git branch -D [branch name]\
+//if merged\
+git branch -d [branch name]
