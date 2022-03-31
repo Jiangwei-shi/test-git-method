@@ -45,11 +45,12 @@ git push -f origin master\
 强制更新
 
 ## delete romote branch
-git push <remote> --delete [branch name]\
+git push [remote name] --delete [branch name]
 example:\
 git push origin --delete Jiangwei
 
-  
+## github issus
+https://blog.csdn.net/cool99781/article/details/105821546
 
 
   
