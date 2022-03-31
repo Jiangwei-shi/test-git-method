@@ -24,3 +24,8 @@ git push --set-upstrean origin [branch name]
 git branch -D [branch name]\
 //if merged\
 git branch -d [branch name]
+
+## delete romote branch
+git push <remote> --delete [branch name]\
+example:\
+  git push origin --delete Jiangwei
