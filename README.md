@@ -7,7 +7,13 @@ git clone [github link]
 git checkout -b [branch name]
 
 ## chech branch
-git branch
+git branch -a \
+for all branch \
+git branch -r \
+for remote branch
+
+## switch branch
+git checkout [branch name]
 
 ## update code to branch
 git add .\
