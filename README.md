@@ -28,8 +28,12 @@ git branch -d [branch name]
 ## delete romote branch
 git push <remote> --delete [branch name]\
 example:\
-  git push origin --delete Jiangwei
+git push origin --delete Jiangwei
   
 ## update branch
-  git pull 
+git pull 
+  
+## delete your commit content
+rm -rf .git/MERGE*
+
   
