@@ -24,7 +24,7 @@ git push --set-upstrean origin [branch name]
 git pull origin master:brantest\
 将远程主机 origin 的 master 分支拉取过来，与本地的 brantest 分支合并。\
 git pull origin master\
-如果远程分支是与当前分支合并，则冒号后面的部分可以省略。直接git pull 就行\
+如果远程分支是与当前分支合并，则冒号后面的部分可以省略。直接git pull 就行
 
 ## delete local branch
 git branch -D [branch name]\
