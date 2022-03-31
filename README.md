@@ -29,3 +29,7 @@ git branch -d [branch name]
 git push <remote> --delete [branch name]\
 example:\
   git push origin --delete Jiangwei
+  
+## update branch
+  git pull 
+  
