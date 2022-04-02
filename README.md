@@ -1,5 +1,15 @@
 # test-git-method
 
+## 仓库相关
+git remote -v\
+仓库路径查询查询\
+git remote set-url origin [remote-url]\
+修改远程仓库地址\
+git remote add origin [remote-url]\
+添加远程仓库\
+git remote rm origin\
+删除指定的远程仓库
+
 ## clone a code
 git clone [github link]
 
