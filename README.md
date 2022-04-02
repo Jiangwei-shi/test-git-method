@@ -11,7 +11,8 @@ git remote rm origin\
 删除指定的远程仓库
 
 ## clone a code
-git clone [github link]
+git clone [github link]\
+git clone -b [branch name] [github link]
 
 ## create a branch in local
 git checkout -b [branch name]
