@@ -63,5 +63,8 @@ git push origin --delete Jiangwei
 ## github issus
 https://blog.csdn.net/cool99781/article/details/105821546
 
+## 回滚到上一个版本
+git reset --hard HEAD^ 
+
 
   
