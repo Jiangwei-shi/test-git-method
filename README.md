@@ -66,5 +66,9 @@ https://blog.csdn.net/cool99781/article/details/105821546
 ## 回滚到上一个版本
 git reset --hard HEAD^ 
 
+具体内容看视频
+
+https://www.youtube.com/watch?v=lVpLoUecZYY
+
 
   
